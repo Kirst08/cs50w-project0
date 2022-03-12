@@ -10,7 +10,7 @@
     "keywords": [],
     "author": "Kirsten López",
     "license": "ISC",
-    "homepage": "https://kirst08.github.io/cs50w-project0/cs50w-project0/templates/introduccion",
+    "homepage": "https://kirst08.github.io/cs50w-project0/templates/introduccion",
     "dependencies": {
         "main": "^1.2.0"
     }
