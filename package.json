@@ -1,0 +1,17 @@
+{
+    "name": "cs50w-project0",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "main -d dist"
+    },
+
+    "keywords": [],
+    "author": "Kirsten López",
+    "license": "ISC",
+    "homepage": "https://kirst08.github.io/cs50w-project0/cs50w-project0",
+    "dependencies": {
+        "main": "^1.2.0"
+    }
+}
